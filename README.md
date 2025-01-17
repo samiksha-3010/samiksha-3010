@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samiksha Yadav</h1>
 <h3 align="center">A passionate 🌐 Full-Stack Developer | 📱 Android App Developers</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
+
+ **samiksha30102@gmail.com**
+
 <p align="left">
 </p>
 
